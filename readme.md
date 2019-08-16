@@ -8,11 +8,10 @@ Tampoco te eches atrás por el número de ejercicios, sabemos que son un montón
 
 ### GITHUB
 
-- Lo primero, haz un fork del repositorio, en el realizarás el ejercicio.
-- Haz una rama "prueba" y sube a ella todos los commits necesarios.
+- Lo primero, haz un fork del repositorio, en el que realizarás el ejercicio.
+- Haz una rama "challenge" y sube a ella todos los commits necesarios.
 - Haz un commit por cada ejercicio. El título de cada commit debe commenzar por **Ejercicio N**.
 - No hagas commits adicionales.
-- Cuando lo tengas todo listo pásanos el link a la rama "prueba".
 
 ### Valoraremos positivamente:
 
